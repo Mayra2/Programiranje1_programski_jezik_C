@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638900288 source:c:\users\majra\documents\programiranje\vjezbe1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638900275 source:c:\users\majra\desktop\programiranje1 vjezbe\untitled1.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
